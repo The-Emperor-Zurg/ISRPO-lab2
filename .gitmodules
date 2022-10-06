@@ -1,0 +1,3 @@
+[submodule "AlmadelX-Submodule"]
+	path = AlmadelX-Submodule
+	url = git@github.com:AlmadelX/AlmadelX-Submodule.git
