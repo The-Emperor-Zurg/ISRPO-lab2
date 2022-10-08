@@ -4,3 +4,6 @@
 [submodule "AlmadelX-LFS"]
 	path = AlmadelX-LFS
 	url = git@github.com:AlmadelX/AlmadelX-LFS.git
+[submodule "LFS1"]
+	path = LFS1
+	url = git@github.com:The-Emperor-Zurg/LFS1.git
